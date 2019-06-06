@@ -1,0 +1,1 @@
+{"_id":{"$oid":"5cf59ce7aa82391b24d6dc33"},"first_name":"Андрій","middle_name ":"Андрійович","last_name":"Алєксєєв","specialization":"педіатр","experience":{"$numberInt":"10"}}
